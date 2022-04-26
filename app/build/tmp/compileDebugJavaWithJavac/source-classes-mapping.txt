@@ -1,0 +1,15 @@
+com/bottomtab/MainActivity.java
+ com.bottomtab.MainActivity
+ com.bottomtab.MainActivity$1
+com/bottomtab/ReactNativeFlipper.java
+ com.bottomtab.ReactNativeFlipper
+ com.bottomtab.ReactNativeFlipper$1
+ com.bottomtab.ReactNativeFlipper$2
+ com.bottomtab.ReactNativeFlipper$2$1
+com/bottomtab/BuildConfig.java
+ com.bottomtab.BuildConfig
+com/bottomtab/MainApplication.java
+ com.bottomtab.MainApplication
+ com.bottomtab.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
